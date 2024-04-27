@@ -1,0 +1,7 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U3\bin\Debug\Finalizers.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U3\bin\Debug\Finalizers.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U3\bin\Debug\Finalizers.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U3\obj\Debug\Finalizers.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U3\obj\Debug\Finalizers.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U3\obj\Debug\Finalizers.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U3\obj\Debug\Finalizers.pdb

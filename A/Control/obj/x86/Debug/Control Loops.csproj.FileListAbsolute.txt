@@ -1,0 +1,7 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\Control\bin\Debug\ConsoleApplication.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\Control\bin\Debug\ConsoleApplication.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\Control\bin\Debug\ConsoleApplication.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\Control\obj\x86\Debug\Control Loops.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\Control\obj\x86\Debug\Control Loops.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\Control\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\Control\obj\x86\Debug\ConsoleApplication.pdb

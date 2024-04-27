@@ -1,0 +1,14 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\obj\Debug\net6.0\Divider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\obj\Debug\net6.0\Divider.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\obj\Debug\net6.0\Divider.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\obj\Debug\net6.0\Divider.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\bin\Debug\net6.0\Divider.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\bin\Debug\net6.0\Divider.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\bin\Debug\net6.0\Divider.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\bin\Debug\net6.0\Divider.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\bin\Debug\net6.0\Divider.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\obj\Debug\net6.0\Divider.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\obj\Debug\net6.0\refint\Divider.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\obj\Debug\net6.0\Divider.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\obj\Debug\net6.0\Divider.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U4\Divider\obj\Debug\net6.0\ref\Divider.dll

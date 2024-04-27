@@ -1,0 +1,7 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U5\bin\Debug\Utils.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U5\bin\Debug\Utils.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U5\bin\Debug\Utils.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U5\obj\Debug\TestDisplay.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U5\obj\Debug\TestDisplay.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U5\obj\Debug\Utils.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U5\obj\Debug\Utils.pdb

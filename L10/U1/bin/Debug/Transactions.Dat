@@ -1,0 +1,30 @@
+Account number is 123
+Account balance is 50
+Account type is Checking
+Transactions:
+Date/Time: 03.12.2023 23:56:37	Amount: 100
+Date/Time: 03.12.2023 23:56:40	Amount: -50
+Account number is 123
+Account balance is 50
+Account type is Checking
+Transactions:
+Date/Time: 03.12.2023 23:57:04	Amount: 100
+Date/Time: 03.12.2023 23:57:06	Amount: -50
+Account number is 123
+Account balance is 1
+Account type is Checking
+Transactions:
+Date/Time: 04.12.2023 0:09:46	Amount: 100
+Date/Time: 04.12.2023 0:09:47	Amount: -99
+Account number is 123
+Account balance is 1
+Account type is Checking
+Transactions:
+Date/Time: 04.12.2023 0:17:34	Amount: 100
+Date/Time: 04.12.2023 0:17:35	Amount: -99
+Account number is 123
+Account balance is 1
+Account type is Checking
+Transactions:
+Date/Time: 04.12.2023 0:24:22	Amount: 100
+Date/Time: 04.12.2023 0:24:23	Amount: -99

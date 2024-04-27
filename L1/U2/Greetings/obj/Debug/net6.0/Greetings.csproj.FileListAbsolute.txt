@@ -1,0 +1,14 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\bin\Debug\net6.0\Greetings.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\bin\Debug\net6.0\Greetings.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\bin\Debug\net6.0\Greetings.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\bin\Debug\net6.0\Greetings.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\bin\Debug\net6.0\Greetings.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\obj\Debug\net6.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\obj\Debug\net6.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\obj\Debug\net6.0\Greetings.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\obj\Debug\net6.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\obj\Debug\net6.0\Greetings.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\obj\Debug\net6.0\refint\Greetings.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\obj\Debug\net6.0\Greetings.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\obj\Debug\net6.0\Greetings.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L1\U2\Greetings\obj\Debug\net6.0\ref\Greetings.dll

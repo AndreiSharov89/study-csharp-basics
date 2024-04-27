@@ -1,0 +1,14 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\bin\Debug\net8.0\Cust.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\bin\Debug\net8.0\Cust.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\bin\Debug\net8.0\Cust.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\bin\Debug\net8.0\Cust.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\bin\Debug\net8.0\Cust.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\obj\Debug\net8.0\Cust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\obj\Debug\net8.0\Cust.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\obj\Debug\net8.0\Cust.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\obj\Debug\net8.0\Cust.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\obj\Debug\net8.0\Cust.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\obj\Debug\net8.0\refint\Cust.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\obj\Debug\net8.0\Cust.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\obj\Debug\net8.0\Cust.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\Cust\Cust\obj\Debug\net8.0\ref\Cust.dll

@@ -1,0 +1,7 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb

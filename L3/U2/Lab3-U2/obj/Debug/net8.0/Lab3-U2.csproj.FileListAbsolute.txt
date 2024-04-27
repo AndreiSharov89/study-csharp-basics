@@ -1,0 +1,14 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\obj\Debug\net8.0\Lab3-U2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\obj\Debug\net8.0\Lab3-U2.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\obj\Debug\net8.0\Lab3-U2.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\obj\Debug\net8.0\Lab3-U2.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\bin\Debug\net8.0\Lab3-U2.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\bin\Debug\net8.0\Lab3-U2.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\bin\Debug\net8.0\Lab3-U2.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\bin\Debug\net8.0\Lab3-U2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\bin\Debug\net8.0\Lab3-U2.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\obj\Debug\net8.0\Lab3-U2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\obj\Debug\net8.0\refint\Lab3-U2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\obj\Debug\net8.0\Lab3-U2.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\obj\Debug\net8.0\Lab3-U2.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L3\U2\Lab3-U2\obj\Debug\net8.0\ref\Lab3-U2.dll

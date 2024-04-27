@@ -1,0 +1,7 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U1\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U1\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U1\bin\Debug\MoreMethods.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U1\bin\Debug\MoreMethods.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U1\bin\Debug\MoreMethods.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U1\obj\Debug\MoreMethods.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U1\obj\Debug\MoreMethods.pdb

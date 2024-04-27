@@ -1,0 +1,14 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\obj\Debug\net8.0\Ak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\obj\Debug\net8.0\Ak.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\obj\Debug\net8.0\Ak.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\obj\Debug\net8.0\Ak.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\bin\Debug\net8.0\Ak.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\bin\Debug\net8.0\Ak.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\bin\Debug\net8.0\Ak.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\bin\Debug\net8.0\Ak.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\bin\Debug\net8.0\Ak.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\obj\Debug\net8.0\Ak.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\obj\Debug\net8.0\refint\Ak.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\obj\Debug\net8.0\Ak.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\obj\Debug\net8.0\Ak.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L4\U5\Ak\obj\Debug\net8.0\ref\Ak.dll

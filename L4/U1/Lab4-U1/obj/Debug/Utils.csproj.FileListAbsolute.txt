@@ -1,0 +1,7 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab05\STARTER\UTILITY\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab05\STARTER\UTILITY\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab05\STARTER\UTILITY\bin\Debug\Utils.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab05\STARTER\UTILITY\bin\Debug\Utils.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab05\STARTER\UTILITY\bin\Debug\Utils.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab05\STARTER\UTILITY\obj\Debug\Utils.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Labs\Lab05\STARTER\UTILITY\obj\Debug\Utils.pdb

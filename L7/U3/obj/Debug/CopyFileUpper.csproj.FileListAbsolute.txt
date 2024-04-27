@@ -1,0 +1,7 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U3\bin\Debug\CopyFileUpper.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U3\bin\Debug\CopyFileUpper.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U3\bin\Debug\CopyFileUpper.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U3\obj\Debug\CopyFileUpper.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U3\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U3\obj\Debug\CopyFileUpper.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L7\U3\obj\Debug\CopyFileUpper.pdb

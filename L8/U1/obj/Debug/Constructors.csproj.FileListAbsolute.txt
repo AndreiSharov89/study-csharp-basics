@@ -1,0 +1,7 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U1\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U1\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U1\bin\Debug\Constructors.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U1\bin\Debug\Constructors.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U1\bin\Debug\Constructors.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U1\obj\Debug\Constructors.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\L8\U1\obj\Debug\Constructors.pdb

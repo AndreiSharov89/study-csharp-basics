@@ -1,0 +1,15 @@
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\bin\Debug\net8.0\A.exe
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\bin\Debug\net8.0\A.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\bin\Debug\net8.0\A.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\bin\Debug\net8.0\A.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\bin\Debug\net8.0\A.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\A.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\A.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\A.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\A.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\refint\A.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\A.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\A.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\ref\A.dll
+C:\Users\sharo\OneDrive\Рабочий стол\C#\Практика\A\A\A\obj\Debug\net8.0\A.sourcelink.json
